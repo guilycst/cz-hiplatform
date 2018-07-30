@@ -3,6 +3,8 @@
 ## O que isso faz?
 Ao commitar usando commitzen, uma série de promps são exibidos para coletar as informações que serão inseridas na mensagem do commit.
 
+[![Add and commit with Commitizen](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)
+
 ## E por que isso é útil?
 Padronização das mensgens de commit, rastreabilidade do tipo e origem das alterações.
 
