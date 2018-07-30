@@ -1,9 +1,20 @@
 # cz-hiplatform
 
-Requerimentos:
+## O que isso faz?
+Ao commitar usando commitzen, uma série de promps são exibidos para coletar as informações que serão inseridas na mensagem do commit.
+
+[![Add and commit with Commitizen](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)](https://github.com/commitizen/cz-cli/raw/master/meta/screenshots/add-commit.png)
+
+## E por que isso é útil?
+Padronização das mensgens de commit, rastreabilidade do tipo e origem das alterações.
+
+## Que padrão?
+"tipo-mudanca(codigo-estoria-backlog): Mensagem do commit" => "feat(5444): created claudioformation"
+
+## Requerimentos:
  - Node.js
 
-Passos instalação:
+## Passos instalação:
 
 	npm install -g commitizen
 
@@ -11,13 +22,15 @@ Passos instalação:
 	
 	echo '{ "path": "cz-hiplatform" }' > ~/.czrc
 
-Executando:
+## Executando:
 	
 	git add .
 	
 	git cz
 
-Saber mais:
+## Saber mais:
 
     https://github.com/commitizen/cz-cli
+    
+Baseado em: https://github.com/commitizen/cz-conventional-changelog
 
