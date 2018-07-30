@@ -31,4 +31,6 @@ Padronização das mensgens de commit, rastreabilidade do tipo e origem das alte
 ## Saber mais:
 
     https://github.com/commitizen/cz-cli
+    
+Baseado em: https://github.com/commitizen/cz-conventional-changelog
 
