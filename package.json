@@ -1,6 +1,6 @@
 {
   "name": "cz-hiplatform",
-  "version": "0.0.0-semantically-released.0",
+  "version": "1.0.0",
   "description": "Hiplatform cz adapter, based on https://github.com/commitizen/cz-conventional-changelog",
   "main": "index.js",
   "scripts": {
