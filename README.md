@@ -7,7 +7,7 @@ Ao commitar usando commitzen, uma série de promps são exibidos para coletar as
 Padronização das mensgens de commit, rastreabilidade do tipo e origem das alterações.
 
 ## Que padrão?
-tipo-mudanca(codigo-historia): Mensagem do commit => feat(5444): created claudioformation
+"tipo-mudanca(codigo-estoria-backlog): Mensagem do commit" => "feat(5444): created claudioformation"
 
 ## Requerimentos:
  - Node.js
